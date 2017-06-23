@@ -6,7 +6,7 @@ Or is it?
 
 > This is a comment
 
-* \[[http://jradd.com:4000](http://jradd.com:4000)\]\(link to crdocs\)
+* \(link to crdocs\)\[[http://jradd.com:4000](http://jradd.com:4000) "test"\]
 * \(idk\)\("../README.md"\)
 * Also an item
 
